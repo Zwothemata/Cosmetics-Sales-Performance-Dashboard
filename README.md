@@ -8,3 +8,7 @@ Interactive Google Sheets dashboard for analyzing retail sales across store loca
 
 
 ![image alt](https://github.com/Zwothemata/Cosmetics-Sales-Performance-Dashboard/blob/3853efa9b343bc450ffae1946a68ee48b4995095/Screenshot%20(278).png)
+
+
+
+![image alt](https://github.com/Zwothemata/Cosmetics-Sales-Performance-Dashboard/blob/72f531b2aa0f6541ceafbdb03792d0bb35804bc6/Screenshot%20(279).png)
